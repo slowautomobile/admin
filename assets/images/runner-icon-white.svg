@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110.06667mm"
+   height="135.481mm"
+   viewBox="0 0 110.06666 135.48101"
+   version="1.1"
+   id="svg193"
+   sodipodi:docname="runner-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview195"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs190" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.592881,-58.787527)">
+    <!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+    <path
+       d="m 123.25955,71.487527 a 12.7,12.7 0 1 0 -25.4,0 12.7,12.7 0 1 0 25.4,0 z M 71.85101,105.2219 c 2.61937,-2.61937 6.19125,-4.10104 9.92187,-4.10104 0.50271,0 1.00542,0.0265 1.48167,0.0794 l -8.255,24.79146 c -2.46063,7.40833 0.44979,15.5575 7.09083,19.71146 l 22.80708,14.26104 -6.72041,23.495 c -1.29646,4.49791 1.32291,9.18104 5.82083,10.4775 4.49792,1.29645 9.18104,-1.32292 10.4775,-5.82084 l 7.59354,-26.56416 c 1.56104,-5.45041 -0.68791,-11.27124 -5.47687,-14.26104 l -15.02834,-9.3927 8.17563,-21.80167 1.34937,3.25437 c 3.96875,9.47209 13.20271,15.63688 23.46855,15.63688 h 5.63562 c 4.68312,0 8.46667,-3.78354 8.46667,-8.46667 0,-4.68312 -3.78355,-8.46666 -8.46667,-8.46666 h -5.63562 c -3.41313,0 -6.50875,-2.06375 -7.80521,-5.2123 l -1.66688,-3.96875 C 121.22226,99.586277 113.41705,92.495444 103.78621,89.53211 l -12.8852,-3.96875 c -2.93688,-0.899583 -6.00605,-1.375833 -9.10167,-1.375833 -8.20208,0 -16.08667,3.254375 -21.88104,9.075208 l -6.13834,6.111875 c -3.30729,3.30729 -3.30729,8.67834 0,11.98563 3.3073,3.30729 8.67834,3.30729 11.98563,0 l 6.11187,-6.11188 z m -9.12813,46.69896 H 47.059547 c -4.683125,0 -8.466666,3.78354 -8.466666,8.46667 0,4.68312 3.783541,8.46667 8.466666,8.46667 H 65.47455 c 5.02708,0 9.57791,-2.96334 11.61521,-7.54063 l 3.0427,-6.85271 -2.51354,-1.5875 c -4.63021,-2.88396 -8.06979,-7.09083 -10.02771,-11.87979 z"
+       id="path314"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583" />
+  </g>
+</svg>
